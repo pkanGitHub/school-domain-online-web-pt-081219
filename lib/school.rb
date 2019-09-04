@@ -1,3 +1,3 @@
 # code here!
-school = school.new("Bayside High School")
+school = School.new("Bayside High School")
 school.roster
